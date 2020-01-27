@@ -25,7 +25,8 @@ public class StudentGrade {
     int finalTerm =0;
     int project =0;
     double finalGrade =0;
-    String course =null,facultyName=null;
+    String course =null;
+    String facultyName=null;
     Scanner  scan = new Scanner(System.in);
     
     public StudentGrade() {
